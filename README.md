@@ -6,7 +6,7 @@
      /____/                       
 
 
-# Sythen Source by @sprx.sh | Enjoy
+Sythen Source by @sprx.sh | Enjoy
 ```
 Instagram: @sprx.sh
 CCM: sprx
