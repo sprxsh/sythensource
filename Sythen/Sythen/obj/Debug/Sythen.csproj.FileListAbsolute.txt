@@ -1,0 +1,11 @@
+C:\Users\xCreations\Desktop\Sythen_beta\fsffdffd\Sythen\bin\Debug\Sythen.exe
+C:\Users\xCreations\Desktop\Sythen_beta\fsffdffd\Sythen\bin\Debug\Sythen.pdb
+C:\Users\xCreations\Desktop\Sythen_beta\fsffdffd\Sythen\bin\Debug\MetroSuite 2.0.dll
+C:\Users\xCreations\Desktop\Sythen_beta\fsffdffd\Sythen\obj\Debug\Sythen.csprojAssemblyReference.cache
+C:\Users\xCreations\Desktop\Sythen_beta\fsffdffd\Sythen\obj\Debug\Sythen.Form1.resources
+C:\Users\xCreations\Desktop\Sythen_beta\fsffdffd\Sythen\obj\Debug\Sythen.Properties.Resources.resources
+C:\Users\xCreations\Desktop\Sythen_beta\fsffdffd\Sythen\obj\Debug\Sythen.csproj.GenerateResource.cache
+C:\Users\xCreations\Desktop\Sythen_beta\fsffdffd\Sythen\obj\Debug\Sythen.csproj.CoreCompileInputs.cache
+C:\Users\xCreations\Desktop\Sythen_beta\fsffdffd\Sythen\obj\Debug\Sythen.csproj.CopyComplete
+C:\Users\xCreations\Desktop\Sythen_beta\fsffdffd\Sythen\obj\Debug\Sythen.exe
+C:\Users\xCreations\Desktop\Sythen_beta\fsffdffd\Sythen\obj\Debug\Sythen.pdb

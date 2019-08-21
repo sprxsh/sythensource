@@ -1,0 +1,11 @@
+C:\Users\xCreations\Desktop\Sythen Source\Sythen\obj\Debug\Sythen Decompiled by SPRX.csprojAssemblyReference.cache
+C:\Users\xCreations\Desktop\Sythen Source\Sythen\obj\Debug\Sythen.Form1.resources
+C:\Users\xCreations\Desktop\Sythen Source\Sythen\obj\Debug\Sythen.Properties.Resources.resources
+C:\Users\xCreations\Desktop\Sythen Source\Sythen\obj\Debug\Sythen Decompiled by SPRX.csproj.GenerateResource.cache
+C:\Users\xCreations\Desktop\Sythen Source\Sythen\obj\Debug\Sythen Decompiled by SPRX.csproj.CoreCompileInputs.cache
+C:\Users\xCreations\Desktop\Sythen Source\Sythen\bin\Debug\Sythen Decompiled by SPRX.exe
+C:\Users\xCreations\Desktop\Sythen Source\Sythen\bin\Debug\Sythen Decompiled by SPRX.pdb
+C:\Users\xCreations\Desktop\Sythen Source\Sythen\bin\Debug\MetroSuite 2.0.dll
+C:\Users\xCreations\Desktop\Sythen Source\Sythen\obj\Debug\Sythen Decompiled by SPRX.csproj.CopyComplete
+C:\Users\xCreations\Desktop\Sythen Source\Sythen\obj\Debug\Sythen Decompiled by SPRX.exe
+C:\Users\xCreations\Desktop\Sythen Source\Sythen\obj\Debug\Sythen Decompiled by SPRX.pdb
